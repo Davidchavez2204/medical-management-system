@@ -1,7 +1,7 @@
 # Sistema de Gestión Médica
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.4-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
