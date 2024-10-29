@@ -68,6 +68,16 @@ facilitar la interacción con el sistema.
 3. **Configurar la base de datos:**
 
 - Crear una base de datos en MySQL.
+- Poblar la base de datos con registros de médicos
+    ```sql
+    INSERT INTO doctors (name, specialty)
+    VALUES
+    ('Dr. Juan García', 'Cardiología'),
+    ('Dra. María López', 'Pediatría'),
+    ('Dr. Carlos Rodríguez', 'Traumatología'),
+    ('Dra. Ana Martínez', 'Neurología'),
+    ('Dr. Roberto Sánchez', 'Medicina General');
+
 - Configurar las credenciales de acceso en el archivo application.properties del backend:
     ```bash
     spring.datasource.url=jdbc:mysql://localhost:3306/nombre_base_datos
