@@ -61,10 +61,10 @@ facilitar la interacción con el sistema.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/sistema-gestion-medica.git
+   git clone https://github.com/zelys/medical-management-system.git
 2. **Navegar al directorio del proyecto:**
    ```bash
-   cd sistema-gestion-medica
+   cd medical-management-system
 3. **Configurar la base de datos:**
 
 - Crear una base de datos en MySQL.
@@ -76,13 +76,11 @@ facilitar la interacción con el sistema.
 
 4. **Ejecutar el backend:**
 
-- Desde la carpeta del backend, compilar y ejecutar:
-    ```bash
-    mvn spring-boot:run
+- Desde la carpeta del backend, compilar y ejecutar `MedicalmanagementApplication.java`.
 
 5. Abrir el frontend:
 
-- Navegar a la carpeta del frontend y abrir el archivo index.html en el navegador.
+- Navegar a la carpeta del frontend y abrir el archivo index.html en el navegador (utilizar extensión Live Server de VS Code).
 
 ## Contribuciones
 
