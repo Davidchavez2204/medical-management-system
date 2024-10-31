@@ -80,7 +80,7 @@ facilitar la interacción con el sistema.
 
 5. Abrir el frontend:
 
-- Navegar a la carpeta del frontend y abrir el archivo index.html en el navegador (utilizar extensión Live Server de VS Code).
+- Navegar a la carpeta del frontend y abrir el archivo index.html en el navegador. Utilizar extensión Live Server de VS Code (Port: 5500).
 
 ## Contribuciones
 
